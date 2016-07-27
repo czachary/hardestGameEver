@@ -10,4 +10,4 @@ INSTRUCTIONS: You can move up, down, left, or right through the three sets of en
 	</br>Once you arrive at either the "game over" or "you win" screen, you can press SELECT to go back to the title screen.
 	</br>There is a "Lives" indicator in the upper right during game play, this text will turn to red when you have one life left.
 	
-EMULATOR: Under the Tools directory, you can find emulator tools to run the game. Download both the 2110-tools and 2110-tools-emulator for either Linux 32 bit or 64 bit.
+EMULATOR: Under the Tools directory, you can find emulator tools to run the game. Download the 2110-tools-emulator for either Linux 32 bit or 64 bit.
